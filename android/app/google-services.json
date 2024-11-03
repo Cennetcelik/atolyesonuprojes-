@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267878163827",
+    "project_id": "proje-e6d93",
+    "storage_bucket": "proje-e6d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267878163827:android:4a4b17920eca4443c81106",
+        "android_client_info": {
+          "package_name": "com.example.atolyesonuprojesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRszWH84xfHboqFYW_UQoycQ2uhcOcWsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
